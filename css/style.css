@@ -1,9 +1,8 @@
 @font-face {
-
-    font-family: "myFont";
+    font-family: ArchieveRegular;
+    
     src: url("../assets/fonts/font.otf");
-    }
-
+}
 
 
 html, body {
@@ -17,6 +16,9 @@ html, body {
     padding-top: 32px;
 }
 
+.custom-footer{
+    background: white;
+}
 
 
 .footer-title{
@@ -53,6 +55,7 @@ html, body {
 }
 
 h1{
-    font-family: "myFont";
+
+    font-family: ArchieveRegular;
 }
 
