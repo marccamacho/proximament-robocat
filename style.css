@@ -1,9 +1,7 @@
 @font-face {
 
-    font-family: ArchieveRegular;
-    
-    src: url(font.ttf);
-    
+    font-family: "myFont";
+    src: url("assets/fonts/font.otf");
     }
 
 
@@ -54,7 +52,6 @@ html, body {
 }
 
 h1{
-
-    font-family: ArchieveRegular;
+    font-family: "myFont";
 }
 
