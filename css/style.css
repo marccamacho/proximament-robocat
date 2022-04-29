@@ -18,6 +18,8 @@ html, body {
 
 .custom-footer{
     background: white;
+    position: absolute;
+    bottom: 0px;
 }
 
 
@@ -54,8 +56,15 @@ html, body {
     transition: all 0.5s ease;
 }
 
-h1{
+h1, h3{
 
     font-family: ArchieveRegular;
+}
+
+object{
+
+    position: absolute;
+    top: 80px;
+    left: 40px;
 }
 
